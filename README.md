@@ -128,6 +128,9 @@ Ensure that WhatsApp Web is logged in on the system and that an active internet 
 
 The following demonstration frame shows the system detecting a fall event in real time. The detected individual is highlighted with a bounding box and skeleton overlay, and the classified action is displayed as `fall_down`. Once the fall is confirmed, the system captures the frame and sends a WhatsApp alert along with the image to the configured guardian contact.
 
+![Demo Image](test_out/img_2.jpg)
+
+
 ---
 
 ## Important Notes
